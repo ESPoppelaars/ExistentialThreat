@@ -1,4 +1,4 @@
-# Exisential Threat
+# Existential Threat
 
 Open data and R analysis scripts for the following paper can be found via the link: http://dx.doi.org/10.17632/s4fh846kjk
 
